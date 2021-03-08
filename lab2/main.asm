@@ -5,7 +5,6 @@
 ; Author : mleyda
 ;
 
-
 ; Replace with your application code
 .include "m328Pdef.inc"
 .cseg
