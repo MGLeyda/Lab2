@@ -1,0 +1,73 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\Debug\lab2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab2.map</FILE>
+  <FILE>lab2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <display><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>46</LINE></display>
+  <main><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>39</LINE></main>
+  <debouncerA><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>88</LINE></debouncerA>
+  <loop><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>54</LINE></loop>
+  <set_ser_in_1><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>60</LINE></set_ser_in_1>
+  <end><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>62</LINE></end>
+  <reset><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>82</LINE></reset>
+  <zero><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>293</LINE></zero>
+  <loop2><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>95</LINE></loop2>
+  <delay_long><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>182</LINE></delay_long>
+  <setPressed><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>139</LINE></setPressed>
+  <countdown><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>201</LINE></countdown>
+  <blink><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>122</LINE></blink>
+  <dash><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>290</LINE></dash>
+  <delay_half><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>172</LINE></delay_half>
+  <loop3><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>142</LINE></loop3>
+  <helper2><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>154</LINE></helper2>
+  <helper><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>150</LINE></helper>
+  <inc_number><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>196</LINE></inc_number>
+  <delay1s><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>164</LINE></delay1s>
+  <half_loop><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>174</LINE></half_loop>
+  <d1><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>184</LINE></d1>
+  <d2><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>185</LINE></d2>
+  <d3><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>186</LINE></d3>
+  <compare><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>224</LINE></compare>
+  <end2><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>215</LINE></end2>
+  <dec_number><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>218</LINE></dec_number>
+  <one><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>297</LINE></one>
+  <two><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>300</LINE></two>
+  <three><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>303</LINE></three>
+  <four><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>306</LINE></four>
+  <five><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>309</LINE></five>
+  <six><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>312</LINE></six>
+  <seven><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>315</LINE></seven>
+  <eight><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>318</LINE></eight>
+  <nine><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>321</LINE></nine>
+  <ten><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>324</LINE></ten>
+  <eleven><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>327</LINE></eleven>
+  <twelve><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>330</LINE></twelve>
+  <thirteen><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>333</LINE></thirteen>
+  <fourteen><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>336</LINE></fourteen>
+  <fifteen><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>339</LINE></fifteen>
+  <sixteen><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>342</LINE></sixteen>
+  <seventeen><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>345</LINE></seventeen>
+  <eighteen><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>348</LINE></eighteen>
+  <nineteen><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>351</LINE></nineteen>
+  <empty><FILE>C:\Users\mleyda\Documents\Atmel Studio\7.0\Lab2\lab2\main.asm</FILE><LINE>287</LINE></empty>
+ </LABELS>
+</ASSEMBLER_INFO>
